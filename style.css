@@ -1,0 +1,40 @@
+body {
+	margin: 30px auto;
+}
+header {
+	background:white;
+    border: 0px;
+    float: left;
+    width: 100%;}
+
+    .logo img{
+	float: left;
+	margin:0px;
+	padding:0px;
+	width:20%;
+}
+.menubar ul {
+	list-style: none;
+	
+	}
+
+.menubar ul li {
+	display: inline-block;
+	margin: 100px;
+	border: 2px solid black;
+	padding:5px;
+}
+    
+
+.news {
+	width: 30%;
+	display: inline-block;
+	margin: auto;
+	padding: 10px;
+	text-align: justify;
+}
+
+.news img {
+	width: 100%;
+	
+}
